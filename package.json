@@ -1,0 +1,26 @@
+{
+  "name": "whatsapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "CommonJS",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docxtemplater": "^3.36.1",
+    "express": "^4.18.2",
+    "express-validator": "^6.14.2",
+    "http": "^0.0.1-security",
+    "jsdocx": "^0.4.5",
+    "jszip": "^3.10.1",
+    "latest-version": "^7.0.0",
+    "libphonenumber-js": "^1.10.14",
+    "node-fetch": "^2.6.1",
+    "pizzip": "^3.1.4",
+    "prompt-sync": "^4.2.0",
+    "venom-bot": "^4.3.7"
+  }
+}
